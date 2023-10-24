@@ -1,6 +1,11 @@
 Core Framework change log
 =========================
 
+1.0.2
+-----
+
+  * RESOLVED: Warning in lib_l2_cache
+
 1.0.1
 -----
 
